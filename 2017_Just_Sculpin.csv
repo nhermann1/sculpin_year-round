@@ -1,0 +1,516 @@
+Sample ID,Date,Common,Species,Fish #,Method,Site,Time capture,Fyke_Num,Wet mass (g),Total L (cm),Fork L (cm),Sex,Gut content,Gut fullness (1-5),Liver mass (g),Gonad mass (g),Tags,Tag ID VEMCO,Tag ID FLOY,MK10 ID,Surgeon,Assistant,Time under,Tag activated,Surgery start,Surgery done,Surgery time,Recovered,Released,Recovery time,Total handling time,lat,long,Waypoint,Net set,Total captured,Fin clip,Muscle,Liver,Whole,Pics,Subsistence,Notes
+S22,2/8/2017,Slimy sculpin,Cottus cognatus cognatus ,21,Fyke net,Fyke 1 (river),,3,18.3,14,,F,"digested 3Gammarus/Onisimus, grit",4,0.6,0.3,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,changed from 21 to 22
+FH79,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,79,Fyke net,Fyke 1 (river),,3,84.8,24,,F,"11 Gammarus or Onisimus, 10 krill, 1 large chironomid larvae",3,3.4,3,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+FH78,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,78,Fyke net,Fyke 1 (river),,3,114.4,23.3,,F,"2 krill, 3 Gammarus or Onisimus, 3 large chironomid larvae",2,5.7,3.6,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+S31,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,30,Fyke net,Fyke 3,5:20,5,45.4,15.6,,F,"3 Gammarus/Onisimus, 3 giant chironomid",4,1.9,1.3,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,gray liver and eggs
+S30,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,29,Fyke net,Fyke 3,5:20,5,49.3,15.4,,F,"5 krill, grit, 5 Gammarus/Onisimus",4,2.3,1.3,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S26,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,25,Fyke net,Fyke 3,5:20,5,59.7,16,,F,1 Gammarus/Onisimus,1,3.3,1.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S24,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,23,Fyke net,Fyke 3,5:20,5,69.7,17.7,,F,"16 Gammarus/Onisimus, many parasites in gut",3,3.5,2.3,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S29,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,28,Fyke net,Fyke 3,5:20,5,72.2,17.6,,F,"7 amphipod, 1 Gammaracanthus sp., 3 krill, parasites in gut",4,3.5,2.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S28,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,27,Fyke net,Fyke 3,5:20,5,73.4,18,,F,"1 jelly fish, 4 amphipods, 1 Gammaracanthus sp., parasites in gut",3,3,3.8,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S25,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,24,Fyke net,Fyke 3,5:20,5,73.7,17.7,,F,"1 Gammaracanthus sp., 11 amphipods",4,3.8,3.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S27,3/8/2017,Slimy sculpin,Cottus cognatus cognatus ,26,Fyke net,Fyke 3,5:20,5,80,17.7,,F,"1 Gammaracanthus sp., 2 Gammarus/Onisimus, digested",3,3.6,3.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+FH83,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,83,Fyke net,Fyke 3,5:20,5,184,26.5,,F,amphipod (digested),3,10,12.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH82,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,82,Fyke net,Fyke 3,5:20,5,277.2,29,,F,"6 jellyfish, 42 Gammarus or Onisimus",3,17.3,23,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,Y,Y,Y,,Y,,
+FH315,3/9/2017,Four horn sculpin,Myoxocephalus quadricornis,323,Fyke net,Fyke 1,6:00,7,64.6,18.2,,F,"400 krills, 1 fish frye, 2 amphipods",5,1.6,0.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH144,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,144,Fyke net,Fyke 1,19:00,21,69.2,20.5,,F,5 copepods,1,1.6,3.6,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,Liver not taken in dissection
+FH155,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,155,Fyke net,Fyke 1,20:15,25,231.6,26.5,,F,4 krill,1,14.9,21.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,,many nodules
+FH157,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,157,Fyke net,Fyke 1,20:15,25,235.5,28,,F,8 red shrimp,2,18.1,19.4,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,,
+FH156,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,156,Fyke net,Fyke 1,20:15,25,280.8,27.2,,F,"100 gammarids, onisimus, 15 krill, char meat (bait)",5,13.2,11.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,,
+S40,12/8/2017,Slimy sculpin,Cottus cognatus cognatus ,40,Fyke net,Fyke 1,23:00,28,35.2,14.4,,F,"1 Gammaracanthus sp., 1 giant chironomid, 1 sea lice",3,0.8,0.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S41,12/8/2017,Slimy sculpin,Cottus cognatus cognatus ,41,Fyke net,Fyke 1,23:00,28,43,14.8,,F,"5 krill, 7 sea lice",4,1.3,0.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH181,13/8/2017,Four horn sculpin,Myoxocephalus quadricornis,181,Fyke net,Fyke 1,23:45,30,40.8,17.2,,F,"unidentified digesta, 1 large amphipod",3,0.9,0.5,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S47,13/8/2017,Slimy sculpin,Cottus cognatus cognatus ,47,Fyke net,Fyke 1,23:45,30,65.8,15.9,,F,"2 gammarid, ~180 krill, 6 sea fleas, 1 sea angel, Onisimus litoralis",5,2.7,1.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S48,13/8/2017,Slimy sculpin,Cottus cognatus cognatus ,48,Fyke net,Fyke 1,23:45,30,126.3,22.1,,F,"1 sea flea, 14 krill, 1 sea angel, 5 fish larvae, 1 piece plastic",2,2.3,2.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S49,14/8/2017,Slimy sculpin,Cottus cognatus cognatus ,49,Fyke net,Fyke 3,10:15,31,68.5,17.5,,F,~90 Gammarids,5,2.7,1.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S50,15/8/2017,Slimy sculpin,Cottus cognatus cognatus ,50,Fyke net,Fyke 1 (river),0:15,32,78.7,17.4,,F,"~50 Gammarids, 3 sand fleas, 4 krill, 1 sea angel, 57 fish fry (sculpin, char? Cod?, 2 sand lance), 1 sand lance (6cm), 2 Onisimus litoralis, 3 Onisimus sp., 1 Gammaracanthus, 1 arrow worm",5,2.4,2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S59,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,59,Fyke net,Fyke 1 (river),,34,37.7,14,,F,"Gammarids, Onisimus sp, krill, 3.6g total mass (digested)",5,0.4,0.5,,,,,,,,,,,,,,,,,,,,,,Y,Y,,,,
+FH197,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,197,Fyke net,Fyke 1,,34,217.5,26.2,,F,"4 Onisimus sp, ~5 digested krill",2,13.9,21.8,,,,,,,,,,,,,,,,,,,,,Y,,N,,?,,Liver not taken in dissection
+FH225,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,225,Fyke net,Fyke 1,14:30,36,23.6,14,,F,"8 krill, 2 mysid, 3 red amphipod",3,0.6,<0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH224,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,224,Fyke net,Fyke 1,14:30,36,49.9,17.9,,F,"3 onisimus litoralis, ~50 mysids, 1 krill, 5 red amphipod, unidentified digesta",4,1.1,0.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,cystic nodules in tail muscle
+FH223,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,223,Fyke net,Fyke 1,14:30,36,73.8,20.1,,F,"2 leaves,  1 onisimus litoralis, ~30 gammarids amd ~20 red amphipods (digested), 1 gammaracanthus sp, 1 mysid",3,2.3,1.6,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,cystic nodules in tail muscle
+FH222,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,222,Fyke net,Fyke 1,14:30,36,105.5,21.7,,F,"krill and mysids (6.8g total), 1 Cnidarian jelly, 5 red amphipods",4,4.7,6.6,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,many nematodes in stomach
+FH221,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,221,Fyke net,Fyke 1,14:30,36,,21.2,,F,"unidentified digesta, 1 sea angel, 1 krill, 1 mysid (small krill), 3 red amphipod",2,2.2,1.4,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,cystic parasites external to gut
+S66,18/8/2017,Slimy sculpin,Cottus cognatus cognatus ,66,Fyke net,Fyke 1 (river),3:15,37,35.9,14.4,,F,"1 gammarid, 1 gammaracanthus, copepods and amphipods too digested to count, 1 fish fry",4,1.6,0.8,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH232,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,232,Fyke net,Fyke 1,3:15,37,278.4,28.1,,F,"1 arctic cod (9.5cm), 1 Onisimus litoralis, 2 fish fry, 6.3g unidentified digesta",3,17.8,24.5,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,cystic nodules on gut
+FH237,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,237,Fyke net,Fyke 1,3:45,38,103.9,24,,F,"1 red amphipod, 1 fish larvae, 3 onisimata litoralis",2,4.3,4.3,,,,,,,,,,,,,,,,,,,,,,Y,Y,,Y,,
+FH234,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,234,Fyke net,Fyke 1,3:45,38,212.2,27.5,,F,"4 onisimata litoralis, 6 red amphipods, 9 fish eyes, 1 copepod, 2 fish larvae",2,10.5,15.4,,,,,,,,,,,,,,,,,,,,,,Y,Y,,Y,,
+FH249,21/8/2017,Four horn sculpin,Myoxocephalus quadricornis,257,Fyke net,Fyke 1,7:15,45,192.1,26.4,,F,"7 onisimus litoralis, 1 copepod",3,15.4,18.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,leeches preserved
+S85,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,91,Fyke net,Fyke 1,7:30,46,50.5,16,,F,1 sea angel 1 krill,1,1.7,1.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,"deep orange liver, immature ovaries",
+S84,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,90,Fyke net,Fyke 1,7:30,46,52.8,15.5,,F,"3 krill, 2 sea angel, 2 Onisimata, fish bits",3,2.3,1.6,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,deep orange liver,
+S86,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,92,Fyke net,Fyke 1,7:30,46,107.3,21.5,,F,"20 fish larvae, 6 smails, 1 large isopod (4 cm, preserved)",4,2.1,1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,pale liver,
+FH7,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,7,Fyke net,River Fyke 1,9:10,47,69,19,,F,"Gammarus or Onisimus, Eusirus or Apherusa",5,,,,,,,,,,,,,,,,,,72.35741,81.09669,,,,,Y,Y,,,,gravid
+FH11,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,11,Fyke net,River Fyke 2,9:10,47,225.7,27.2,,F,"Empty, digested intestine",1 (4 intestine),,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,gravid
+S87,23/8/2017,Slimy sculpin,Cottus cognatus cognatus ,93,Fyke net,fyke 1,8:45,48,116.3,19.9,,F,"3 cm sculpin larvae, 2 sand fleas, lots of fish eyes, 10 red amphipods",4,6.5,8,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S2,24/7/2017,Slimy sculpin,Cottus cognatus cognatus ,2,Fyke net,Fyke 2 (camp),18:40,49,33.3,13.2,,F,"Onisimus (9), Gammarus (31), Gammaracanthus sp. (1)",4,1.4,0.5,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,eggs
+FH13,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,13,Fyke net,River Fyke 2,9:08,50,57.1,15.5,,F,Gammarus or Onisimus ~40,5,,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH22,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,22,Fyke net,Fyke 2 (camp),18:40,49,74.2,20.7,,F,"Gammarus or Onisimus (8), krill (1), shrimp (8)",2,3.1,2.3,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH20,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,20,Fyke net,Fyke 2 (camp),18:40,49,99.8,22.2,,F,"Krill (6), shrimp (9), grit, Gammarus or Onisimus (12)",3,3.5,2,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH18,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,18,Fyke net,Fyke 2 (camp),18:40,49,100,21,,F,Gammarus or Onisimus (30),5,,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH258,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,266,Fyke net,Fyke 1,8:30,51,5,7,,F,3 fish larvae + 1 onisimata litoralois,5,0.5,<0.1,,,,,,,,,,,,,,,,,,,,,y,y,y,,y,,
+S6,25/8/2017,Slimy sculpin,Cottus cognatus cognatus ,6,Fyke net,Fyke 2 (camp),9:00,54,42,14.6,,F,"grit (1),Gammarus (5), digested",2,1.3,0.9,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,eggs
+S4,25/8/2017,Slimy sculpin,Cottus cognatus cognatus ,4,Fyke net,Fyke 2 (camp),9:00,54,55.5,15.8,,F,"Gammaracanthus sp. (3), Gammarus (23)",3,1.9,1.9,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,eggs
+S13,26/7/2017,Slimy sculpin,Cottus cognatus cognatus ,13,Fyke net,Fyke 1 (river),10:30,55,59.2,16,,F,"Gammarus/Onisimus (35), krill (1), Gammaracanthus sp. (1)",4,2.7,1.9,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+FH28,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,28,Fyke net,Fyke 1 (river),10:30,55,175,25.4,,F,"Gammarus or Onisimus (30), krill (1), Gammaracanthus sp.(3)",3,9.5,9.6,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+FH27,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,27,Fyke net,Fyke 1 (river),10:30,55,218.6,27,,F,"Gammarus or Onisimus (18), rock (1), leaves",2,12.3,8.1,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+FH278,29/8/2017,Four horn sculpin,Myoxocephalus quadricornis,286,Fyke net,Fyke 1,11:30,65,400,30,,F,"24 shrimps, fish fry eyes, krills",5,27.7,26.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,y,,Euthanized
+FH9,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,9,Fyke net,River Fyke 1,9:10,47,14,6.2,,I,"digested, too small",1,,,,,,,,,,,,,,,,,,72.35741,81.09669,,,,,Y,Y,,,,
+FH10,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,10,Fyke net,River Fyke 1,9:10,47,17,6.6,,I,Gammarus or Onisimus,4,,,,,,,,,,,,,,,,,,72.35741,81.09669,,,,,Y,Y,,,,
+S3,24/7/2017,Slimy sculpin,Cottus cognatus cognatus ,3,Fyke net,Fyke 2 (camp),18:40,49,0.8,4.2,,I,Onisimus (3),3,too small,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,,N,,,,"Liver too small, not kept"
+S23,2/8/2017,Slimy sculpin,Cottus cognatus cognatus ,22,Fyke net,Fyke 1 (river),,3,6.7,11.4,,M,"3 krill, 3 Gammarus/Onisimus, grit",3,0.3,<0.1,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,changed from 22 to 23
+FH81,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,81,Fyke net,Fyke 1 (river),,3,33.7,18.8,,M,37 krill,3,0.6,1.4,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+FH80,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,80,Fyke net,Fyke 1 (river),,3,27.9,17.9,,M,"digested amphipods, grit",2,0.6,0.1,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+FH87,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,87,Fyke net,Fyke 3,5:20,5,23,14.5,,M,"1 krill, 2 amphipod",2,0.5,0.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH88,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,88,Fyke net,Fyke 3,5:20,5,24.6,14.5,,M,"1 krill, 2 Gammarus or Onisimus (digested), parasites",2,0.7,0.3,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH85,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,85,Fyke net,Fyke 3,5:20,5,76.9,21,,M,"1 krill, 13 amphipod",3,2.4,2.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH86,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,86,Fyke net,Fyke 3,5:20,5,84.8,22,,M,5 amphipod (digested),2,2.4,2.4,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH84,3/8/2017,Four horn sculpin,Myoxocephalus quadricornis,84,Fyke net,Fyke 3,5:20,5,155.2,25.5,,M,3 amphipod (digested),2,3.5,8.5,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S33,6/8/2017,Slimy Sculpin,Cottus cognatus cognatus ,33,Fyke net,Fyke 3,9:00,14,50.5,16,,M,"~10 copepods, ~10 krill, ~15 Onisimus or Eusirus, ~15 gammarus",5,1.5,<0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+S32,6/8/2017,Slimy Sculpin,Cottus cognatus cognatus ,32,Fyke net,Fyke 3,9:00,14,78.6,17.9,,M,"~10 krill, ~20 amphipods, ~1 Gammaracanthus sp., ~10 Onisimus or Eusirus",5,4.2,0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,Y,
+FH106,7/8/2017,Four horn sculpin,Myoxocephalus quadricornis,106,Fyke net,Fyke 1,17:00,16,25.5,14.7,,M,12 Amphipods: 10 Onisimus? 2 Gammarus,2,0.6,1.4,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH105,7/8/2017,Four horn sculpin,Myoxocephalus quadricornis,105,Fyke net,Fyke 1,17:00,16,33.9,15.3,,M,20 Gammarus sp.,2,0.5,0.5,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH145,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,145,Fyke net,Fyke 1,19:00,21,48,18,,M,nothing,1,1.5,0.9,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,Liver not taken in dissection
+S34,9/8/2017,Slimy sculpin,Cottus cognatus cognatus ,34,Fyke net,Fyke 1,19:00,21,62.5,17,,M,unidentified digesta,4,3.1,1.7,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,Liver not taken in dissection
+FH143,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,143,Fyke net,Fyke 1,19:00,21,68.1,20,,M,"1 amphipod, 3 krill, unidentified digesta",2,2.4,1.6,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,Liver not taken in dissection
+FH142,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,142,Fyke net,Fyke 1,19:00,21,150.2,25.5,,M,2 amphipods,1,3.8,8.8,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,Liver not taken in dissection
+S37,10/8/2017,Slimy sculpin,Cottus cognatus cognatus ,37,Fyke net,Fyke 1,20:53,25,34.2,14.5,,M,"25 krill, 3 red shrimp",4,1,0.6,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH151,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,151,Fyke net,Fyke 1,9:00,24,50.1,18,,M,"20 krill, 2 copepods",3,1.1,1.1,,,,,,,,,,,,,,,,,,,,,Y,,N,,,,Liver not taken in dissection
+FH154,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,154,Fyke net,Fyke 1,20:15,25,59.7,18.8,,M,"4 krill, 5 amphipods",2,2.2,0.3,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,Y,,
+S38,12/8/2017,Slimy sculpin,Cottus cognatus cognatus ,38,Fyke net,Fyke 1,10:00,27,21.8,12.5,,M,"2 sea lice, 1 chironomid, 13 copepods, 2 Onisimus sp., 2 gammarids",3,0.7,<0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S42,12/8/2017,Slimy sculpin,Cottus cognatus cognatus ,42,Fyke net,Fyke 1,23:00,28,27.7,12.9,,M,23 krill,3,0.5,0.7,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S39,12/8/2017,Slimy sculpin,Cottus cognatus cognatus ,39,Fyke net,Fyke 1,10:00,27,39.8,15.2,,M,"1 Caprellid amphipod, 1 copepod, 19 fish eyes, 1 nematode parasite?",3,0.9,0.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S44,13/8/2017,Slimy sculpin,Cottus cognatus cognatus ,44,Fyke net,Fyke 1,11:00,29,11.9,9.8,,M,2 Onisimus so.,2,0.4,0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S43,13/8/2017,Slimy sculpin,Cottus cognatus cognatus ,43,Fyke net,Fyke 1,11:00,29,18.5,12,,M,"1 Gammaracanthus sp., 3 Gammarids",4,0.3,<0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S46,13/8/2017,Slimy sculpin,Cottus cognatus cognatus ,46,Fyke net,Fyke 1,23:45,30,20.6,11.2,,M,"28 krill, 9 fish larvae, 1 amphipod",5,0.4,0.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH180,13/8/2017,Four horn sculpin,Myoxocephalus quadricornis,180,Fyke net,Fyke 1,11:00,29,63.5,19.5,,M,"2 copepod, krill (d)",3,1,4.9,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,"Cysts on liver, not taken in dissection"
+S62,17/8/2017,Slimy sculpin,Cottus cognatus cognatus ,62,Fyke net,Fyke 1 (river),14:30,36,30.2,12.9,,M,"5 Gammarids, 3 red amphipod, 1 Gammaracanthus sp",3,1.2,0.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S65,18/8/2017,Slimy sculpin,Cottus cognatus cognatus ,65,Fyke net,Fyke 1 (river),3:15,37,29.8,14,,M,"0.2g copepods, 3 fish fry, 0.9g amphipods (too digested to identified)",5,0.6,1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S64,18/8/2017,Slimy sculpin,Cottus cognatus cognatus ,64,Fyke net,Fyke 1 (river),3:15,37,31.4,13.5,,M,"unidentified digesta (brown), 1 gammarid, 3 fish fry",4,0.7,0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S63,18/8/2017,Slimy sculpin,Cottus cognatus cognatus ,63,Fyke net,Fyke 1 (river),3:15,37,58.2,16.5,,M,"Unidentified amphipods, 36 fish fry (sculpin and cod or char)",5,0.8,0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH235,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,235,Fyke net,Fyke 1,3:45,38,60.3,18.3,,M,"1 giant chironimid, 2 onisimata litoralois, ~120 mysids (3.1g)",4,0.8,2.6,,,,,,,,,,,,,,,,,,,,,,Y,Y,,Y,,
+FH233,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,233,Fyke net,Fyke 1,3:45,38,92.6,21.8,,M,3 red amphipods,2,1.3,5,,,,,,,,,,,,,,,,,,,,,,Y,Y,,Y,,
+FH236,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,236,Fyke net,Fyke 1,3:45,38,93.3,23.3,,M,"8 onisimata litoralis, 1 chironomid, 6 krill, 1 red amphipod, 1 gammarid, ~40 mysid",3,1.9,4.4,,,,,,,,,,,,,,,,,,,,,,Y,Y,,Y,,
+FH251,21/8/2017,Four horn sculpin,Myoxocephalus quadricornis,259,Fyke net,Fyke 1,19:00,44,26,14,,M,"3 gammarid, 2 krill",4,0.4,0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+S74,21/8/2017,Slimy sculpin,Cottus cognatus cognatus ,80,Fyke net,Fyke 1,7:15,45,59.7,17.2,,M,"Cnidarian jelly, 1fish  larvae, 1 mysid, unidentified digesta",2,1.1,1.6,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,,
+FH8,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,8,Fyke net,River Fyke 1,9:10,47,43,16.5,,M,"Gammarus or Onisimus, digested",4,,,,,,,,,,,,,,,,,,72.35741,81.09669,,,,,Y,Y,,,,
+FH6,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,6,Fyke net,River Fyke 1,9:10,47,93,22,,M,Gammarus or Onisimus,5,,,,,,,,,,,,,,,,,,72.35741,81.09669,,,,,Y,Y,,,,
+FH12,23/7/2017,Four horn sculpin,Myoxocephalus quadricornis,12,Fyke net,River Fyke 2,9:10,47,147.6,25.3,,M,Gammarus or Onisimus,3 (4 intestine),,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+S1,24/7/2017,Slimy sculpin,Cottus cognatus cognatus ,1,Fyke net,Fyke 2 (camp),18:40,49,42.4,14.2,,M,"Gammaracanthus sp. (1), amphipods (13), Onisimus/Apherusa/Eusirus (12), krill (5)",5,1.4,0.5,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH21,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,21,Fyke net,Fyke 2 (camp),18:40,49,46.2,16.5,,M,"shrimp (8), krill (4), Gammarus or Onisimus (2)",2,1.3,1.6,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH19,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,19,Fyke net,Fyke 2 (camp),18:40,49,117.2,22.2,,M,"Gammarus or Onisimus (33), Gammaracanthus sp. (3), krill (3), Eusirus or Apherusa (2)",5,2.7,5.2,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH257,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,265,Fyke net,Fyke 1,8:30,51,12,11.5,,M,"2 gammarid, 3sand lices",4,0.6,0.8,,,,,,,,,,,,,,,,,,,,,y,y,y,,y,,
+FH265,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,273,Fyke net,Fyke 1,21:00,52,15,12,,M,3 copepods,2,0.5,<0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH264,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,272,Fyke net,Fyke 1,21:00,52,20,13,,M,10 copepods,3,0.7,0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH24,25/7/2017,Four horn sculpin,Myoxocephalus quadricornis,24,Fyke net,Fyke 2 (camp),9:00,54,22.3,13.9,,M,"Gammarus or Onisimus (1, krill (1), shrimp (3)",1,0.3,0.2,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+S7,25/7/2017,Slimy sculpin,Cottus cognatus cognatus ,7,Fyke net,Fyke 2 (camp),9:00,54,23.8,12.2,,M,"Gammarus (14), Gammaracanthus sp. (1)",3,0.9,0.1,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH266,25/8/2017,Four horn sculpin,Myoxocephalus quadricornis,274,Fyke net,Fyke 1,9:30,54,79,21.5,,M,"6 red copepods, 7 copepods, 1 rock (picture taken)",3,1.6,1.9,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,lesion in liver sampled in formalin
+S5,25/8/2017,Slimy sculpin,Cottus cognatus cognatus ,5,Fyke net,Fyke 2 (camp),9:00,54,43.7,14.5,,M,"Gammarus/Onisimus (40),Gammaracanthus sp. (3), Eusirus or Apherusa (1)",4,1.1,0.4,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,Y,Y,,,,
+FH26,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,26,Fyke net,Fyke 1 (river),10:30,55,44.6,16.2,,M,"Gammarus or Onisimus (40), krill (5) (D)",3,1,0.4,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+S12,26/7/2017,Slimy sculpin,Cottus cognatus cognatus ,12,Fyke net,Fyke 1 (river),10:30,55,52.1,15.2,,M,"Gammarus/Onisimus (20), krill (2), Gammaracanthus sp. (3)",3,2,1.1,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,Y,Y,,,,
+S89,27/8/2017,Slimy sculpin,Cottus cognatus cognatus ,95,Fyke net,fyke 1,10:40,59,35,13.5,,M,"15 krill, 3 sea lices; 1 copepod; 18 fish larvae",5,0.8,0.5,,,,,,,,,,,,,,,,,,,,,y,y,y,,y,,
+S90,27/8/2017,Slimy sculpin,Cottus cognatus cognatus ,96,Fyke net,fyke 1,10:40,59,43,14.5,,M,5 krill +6 copepods+ 1 sea lice +17 fish larvae,3,1.3,0.2,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Y,,
+FH141,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,141,Fyke net,Fyke 1,19:00,21,48.4,17.5,,Unknown,"1 amphipod, 12 krill",3,0.7,0.8,,,,,,,,,,,,,,,,,,,,,Y,,N,,Y,,Liver not taken in dissection
+FH267,25/8/2017,Four horn sculpin,Myoxocephalus quadricornis,275,Fyke net,Fyke 1,21:00,53,31.7,16.4,,Unknown,check the book,5,0.5,0.4,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,Not sure,,
+S9,25/7/2017,Slimy sculpin,Cottus cognatus cognatus ,9,Fyke net,Fyke 2 (camp),21:00,53,0.9,5.5,,,/,/,,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,,,,,,
+S10,25/7/2017,Slimy sculpin,Cottus cognatus cognatus ,10,Fyke net,Fyke 2 (camp),21:00,53,6.6,9.5,,,/,/,,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,,,,,,
+S8,25/7/2017,Slimy sculpin,Cottus cognatus cognatus ,8,Fyke net,Fyke 2 (camp),21:00,53,27.1,12,,,/,/,,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,,,,,,
+FH23,25/8/2017,Four horn sculpin,Myoxocephalus quadricornis,23,Fyke net,Fyke 2 (camp),9:00,54,126,23.5,,,/,/,,,V9,1627/1271573,,,Rozenn,,9:37am,09:37am,10:11,10:20,,10:25,10:46,,,72.3567,81.0975,,,,,,,,,,
+S11,26/7/2017,Slimy sculpin,Cottus cognatus cognatus ,11,Fyke net,Fyke 1 (river),8:30,55,56.6,16,,,/,/,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH25,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,25,Fyke net,Fyke 1 (river),8:30,55,277.6,29,,,/,/,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH70,1/8/2017,Four horn sculpin,Myoxocephalus quadricornis,70,Fyke net,Fyke 1 (river),10:33,1,138.8,27,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH72,1/8/2017,Four horn sculpin,Myoxocephalus quadricornis,72,Fyke net,Fyke 1 (river),10:33,1,186.1,28.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH71,1/8/2017,Four horn sculpin,Myoxocephalus quadricornis,71,Fyke net,Fyke 1 (river),10:33,1,211.3,29,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH69,1/8/2017,Four horn sculpin,Myoxocephalus quadricornis,69,Fyke net,Fyke 1 (river),10:33,1,253.3,31,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S121,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,127,Fyke net,fyke 1,14:45,2,21.7,12.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S127,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,133,Fyke net,fyke 1,14:45,2,27.1,13.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S124,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,130,Fyke net,fyke 1,14:45,2,28.2,11.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S118,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,124,Fyke net,fyke 1,14:45,2,33.8,12.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S119,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,125,Fyke net,fyke 1,14:45,2,35.1,13.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S126,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,132,Fyke net,fyke 1,14:45,2,35.8,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S125,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,131,Fyke net,fyke 1,14:45,2,35.8,11.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH304,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,312,Fyke net,Fyke 1,14:45,2,36.5,16.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+FH298,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,306,Fyke net,Fyke 1,14:45,2,83.4,21.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH301,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,309,Fyke net,Fyke 1,14:45,2,104,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH300,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,308,Fyke net,Fyke 1,14:45,2,146.3,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH299,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,307,Fyke net,Fyke 1,14:45,2,146.5,25,,,,,,,V5,8863/1271519,,,Karine,Jeremiah,16:24,,16:29,16:35,6,,16:46,,,,,,,,,,,,Y,,Tagged. Released.
+FH297,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,305,Fyke net,Fyke 1,14:45,2,154.5,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Old fracture of the tail. Released. 
+FH303,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,311,Fyke net,Fyke 1,14:45,2,166,25.5,,,,,,,V5,8932/1271522,,,Karine,Jeremiah,15:48,,15:54,16:05,11,,16:12,,,,,,,,,,,,Y,,
+FH302,1/9/2017,Four horn sculpin,Myoxocephalus quadricornis,310,Fyke net,Fyke 1,14:45,2,255.5,30,,,,,,,V5,8909/1271521,,,Karine,Jeremiah,16:02,,16:07,16:15,8,,16:29,,,,,,,,,,,,Y,,Tagged. Released.
+S117,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,123,Fyke net,fyke 1,14:45,2,41.5,13.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S120,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,126,Fyke net,fyke 1,14:45,2,45,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S123,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,129,Fyke net,fyke 1,14:45,2,48.6,15.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S116,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,122,Fyke net,fyke 1,14:45,2,51.9,16.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S114,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,120,Fyke net,fyke 1,14:45,2,75.3,17.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Released
+S122,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,128,Fyke net,fyke 1,14:45,2,87,18.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S115,1/9/2017,Slimy sculpin,Cottus cognatus cognatus ,121,Fyke net,fyke 1,14:45,2,92.1,19.4,,,,,,,V5,8865/1271520,,,Karine,Jeremiah,15:14,,15:19,15:25,6,,15:35,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH76,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,76,Fyke net,Fyke 1 (river),,3,23.1,28.2,,,,,,,V9,1632/1271578,,,Rozenn,,15:41,,15:45,15:48,,,16:02,,,72?21.123',81?06.423',,,,,,,,,,
+S20,2/8/2017,Slimy sculpin,Cottus cognatus cognatus ,19,Fyke net,Fyke 1 (river),,3,74,18,,,,,,,V9,1626/1271572,,,Rozenn,,15:57,,16:01,16:05,,,17:06,,,72?21.123',81?06.423',,,,,,,,,,changed from 19 to 20
+S21,2/8/2017,Slimy sculpin,Cottus cognatus cognatus ,20,Fyke net,Fyke 1 (river),,3,81.6,18,,,,,,,V9,1625/1271571,,,Harri,,16:09,,16:15,16:19,,,17:06,,,72?21.123',81?06.423',,,,,,,,,,changed from 20 to 21
+FH74,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,74,Fyke net,Fyke 1 (river),,3,148.5,23.5,,,,,,,V9,1631/1271577,,,Rozenn,,15:16,,15:21,15:24,,15:25,15:45,,,72?21.123',81?06.423',,,,,,,,,,
+FH73,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,73,Fyke net,Fyke 1 (river),,3,149.1,26.5,,,,,,,V9,1628/1271574,,,Nige,,15:09,,15:11,15:16,,,15:33,,,72?21.123',81?06.423',,,,,,,,,,
+FH77,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,77,Fyke net,Fyke 1 (river),,3,199.6,26.2,,,,,,,V9,1633/1271579,,,Harri,,15:49,,15:52,15:56,,,16:02,,,72?21.123',81?06.423',,,,,,,,,,
+FH75,2/8/2017,Four horn sculpin,Myoxocephalus quadricornis,75,Fyke net,Fyke 1 (river),,3,215.5,28.2,,,,,,,V9,1630/1271576,,,Harri,,15:25,,15:32,15:37,,,16:02,,,72?21.123',81?06.423',,,,,,,,,,
+FH308,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,316,Fyke net,Fyke 1,16:00,4,28.5,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH307,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,315,Fyke net,Fyke 1,16:00,4,45.4,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH305,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,313,Fyke net,Fyke 1,16:00,4,62.5,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH306,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,314,Fyke net,Fyke 1,16:00,4,92.8,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH309,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,317,Fyke net,Fyke 1,16:00,4,98,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH310,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,318,Fyke net,Fyke 1,16:00,4,122.2,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH311,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,319,Fyke net,Fyke 1,16:00,4,136.3,23,,,,,,,V5,9157/1271534,,,Karine,Colleen,05:28pm,,05:30pm,05:35pm,5,,05:51pm,,,,,,,,Y,,,,Y,,Tagged. Released.
+S134,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,140,Fyke net,fyke 1,16:00,4,140.2,20.5,,,,,,,V5,9175/1271537,,,Karine,Colleen,06:00pm,,06:03pm,06:10pm,7,,06:19pm,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH312,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,320,Fyke net,Fyke 1,16:00,4,,,,,,,,,V5,9163/1271535,,,Karine,Colleen,05:40pm,,05:42pm,05:47pm,5,,06:06pm,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH313,2/9/2017,Four horn sculpin,Myoxocephalus quadricornis,321,Fyke net,Fyke 1,16:00,4,,,,,,,,,V5,9171/1271536,,,Karine,Colleen,05:49pm,,05:52pm,05:58pm,6,,06:11pm,,,,,,,,Y,,,,Y,,Tagged. Released.
+S133,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,139,Fyke net,fyke 1,16:00,4,43.3,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S128,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,134,Fyke net,fyke 1,16:00,4,50.6,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S132,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,138,Fyke net,fyke 1,16:00,4,56.3,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S131,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,137,Fyke net,fyke 1,16:00,4,69.7,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S129,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,135,Fyke net,fyke 1,16:00,4,85.8,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S130,2/9/2017,Slimy sculpin,Cottus cognatus cognatus ,136,Fyke net,fyke 1,16:00,4,85.9,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S137,3/9/2017,Slimy sculpin,Cottus cognatus cognatus ,142,Fyke net,fyke 1,17:00,6,27.7,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S135,3/9/2017,Slimy sculpin,Cottus cognatus cognatus ,141,Fyke net,fyke 1,17:00,6,30.3,14.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH314,3/9/2017,Four horn sculpin,Myoxocephalus quadricornis,322,Fyke net,Fyke 1,6:00,7,102.6,21.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S139,3/9/2017,Slimy sculpin,Cottus cognatus cognatus ,143,Fyke net,fyke 1,17:00,8,62.1,16.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH89,4/8/2017,Four horn sculpin,Myoxocephalus quadricornis,89,Fyke net,Fyke 3,,9,1.5,6.3,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,,,
+S141,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,144,Fyke net,fyke 1,6:00,10,31.8,13.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S140,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,176,Fyke net,fyke 1,18:30,11,33.2,12.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number. Released.
+FH322,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,330,Fyke net,Fyke 1,18:30,11,35.6,15.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Released
+FH319,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,327,Fyke net,Fyke 1,6:00,10,38.3,15.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH318,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,326,Fyke net,Fyke 1,6:00,10,41,16.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH317,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,325,Fyke net,Fyke 1,6:00,10,44.3,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S143,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,145,Fyke net,fyke 1,6:00,10,51.8,16.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S145,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,146,Fyke net,fyke 1,6:00,10,66.2,17.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S138,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,175,Fyke net,fyke 1,6:00,10,75.4,18.5,,,,,,,V5,8986/1271525,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number. Tagged. Released.
+S147,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,147,Fyke net,fyke 1,6:00,10,76.5,17.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH316,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,324,Fyke net,Fyke 1,6:00,10,92.1,20.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S136,4/9/2017,Slimy sculpin,Cottus cognatus cognatus ,174,Fyke net,Fyke 1,6:00,10,93.7,18.1,,,,,,,V5,9003/1271526,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number. Tagged. Released.
+FH321,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,329,Fyke net,Fyke 1,6:00,10,111.7,21.9,,,,,,,V5,9006/1271527,,,Bob,Erin,7:25,,7:28,7:34,6,,7:44,,,,,,,,,,,,,,Tagged
+FH320,4/9/2017,Four horn sculpin,Myoxocephalus quadricornis,328,Fyke net,Fyke 1,6:00,10,171.6,26.3,,,,,,,V5,9019/1271528,,,Bob,Erin,7:12,,7:16,7:23,7,,7:35,,,,,,,,,,,,,,Tagged
+FH92,5/8/2017,Four horn sculpin,Myoxocephalus quadricornis,92,Fyke net,Fyke 3,9:00,12,0.5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH91,5/8/2017,Four horn sculpin,Myoxocephalus quadricornis,91,Fyke net,Fyke 3,9:00,12,1,4.7,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,y,,,,"Not complete dissection, no diet data"
+FH93,5/8/2017,Four horn sculpin,Myoxocephalus quadricornis,93,Fyke net,Fyke 3,9:00,12,5.9,9.4,,,1 Gammarus or Onisimus,3,0.2,< 0.1,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,,,
+FH90,5/8/2017,Four horn sculpin,Myoxocephalus quadricornis,90,Fyke net,Fyke 3,9:00,12,43.7,18.8,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,pics on Narwhal cam
+FH94,5/8/2017,Four horn sculpin,Myoxocephalus quadricornis,94,Fyke net,Fyke 3,9:00,12,,2.4,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,Y,Y,,
+S146,5/9/2017,Slimy sculpin,Cottus cognatus cognatus ,179,Fyke net,fyke 1,7:15,13,36.8,14.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number.Released
+S148,5/9/2017,Slimy sculpin,Cottus cognatus cognatus ,180,Fyke net,fyke 1,7:15,13,42.8,14.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number.Released
+FH324,5/9/2017,Four horn sculpin,Myoxocephalus quadricornis,332,Fyke net,Fyke 1,7:15,13,51.2,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Released
+S144,5/9/2017,Slimy sculpin,Cottus cognatus cognatus ,178,Fyke net,fyke 1,7:15,13,55.5,15.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number.Released
+FH323,5/9/2017,Four horn sculpin,Myoxocephalus quadricornis,331,Fyke net,Fyke 1,7:15,13,61.3,18.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Released
+S142,5/9/2017,Slimy sculpin,Cottus cognatus cognatus ,177,Fyke net,fyke 1,7:15,13,64,16.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,*Duplicated number.Released
+FH327,5/9/2017,Four horn sculpin,Myoxocephalus quadricornis,335,Fyke net,Fyke 1,7:15,13,107.7,22.4,,,,,,,V5,9132/1271532,,,Bob,Erin,8:05,,8:09,8:15,6,,8:33,,,,,,,,,,,,,,Tagged. Released.
+FH326,5/9/2017,Four horn sculpin,Myoxocephalus quadricornis,334,Fyke net,Fyke 1,7:15,13,125.8,22.9,,,,,,,V5,9144/1271533,,,Bob,Erin,7:56,,7:59,8:05,6,,8:17,,,,,,,,,,,,,,Tagged. Released.
+FH325,5/9/2017,Four horn sculpin,Myoxocephalus quadricornis,333,Fyke net,Fyke 1,7:15,13,135.4,23.6,,,,,,,V5,9192/1271538,,,Bob,Erin,7:46,,7:50,7:56,6,,8:17,,,,,,,,,,,,,,Tagged. Released.
+FH99,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,99,Fyke net,Fyke 3,9:00,14,27.3,14.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH95,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,95,Fyke net,Fyke 3,9:00,14,30.5,7.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH102,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,102,Fyke net,Fyke 3,9:00,14,62.8,18.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH100,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,100,Fyke net,Fyke 3,9:00,14,74,19.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH96,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,96,Fyke net,Fyke 3,9:00,14,93.7,18.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH103,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,103,Fyke net,Fyke 3,9:00,14,94,21.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH101,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,101,Fyke net,Fyke 3,9:00,14,94.7,24.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH97,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,97,Fyke net,Fyke 3,9:00,14,113.7,23.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH98,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,98,Fyke net,Fyke 3,9:00,14,117.8,22.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH104,6/8/2017,Four horn sculpin,Myoxocephalus quadricornis,104,Fyke net,Fyke 3,9:00,14,194.4,27.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH333,6/9/2017,Four horn sculpin,Myoxocephalus quadricornis,341,Fyke net,Fyke 1,7:45,15,19.9,13.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+FH328,6/9/2017,Four horn sculpin,Myoxocephalus quadricornis,336,Fyke net,Fyke 1,7:45,15,26.5,12.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S151,6/9/2017,Slimy sculpin,Cottus cognatus cognatus ,150,Fyke net,fyke 1,7:45,15,32.6,13.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S150,6/9/2017,Slimy sculpin,Cottus cognatus cognatus ,149,Fyke net,fyke 1,7:45,15,36.1,14.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH329,6/9/2017,Four horn sculpin,Myoxocephalus quadricornis,337,Fyke net,Fyke 1,7:45,15,48.4,14.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S152,6/9/2017,Slimy sculpin,Cottus cognatus cognatus ,151,Fyke net,fyke 1,7:45,15,63.3,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S149,6/9/2017,Slimy sculpin,Cottus cognatus cognatus ,148,Fyke net,fyke 1,7:45,15,87.5,18.4,,,,,,,V5,9056/1271531,,,Bob,Erin,8:15,,8:20,8:25,5,,8:33,,,,,,,,Y,Y,,,Y,,Tagged. Released.
+FH332,6/9/2017,Four horn sculpin,Myoxocephalus quadricornis,340,Fyke net,Fyke 1,7:45,15,124.4,22.5,,,,,,,V5,9461/1271556,,,Bob,Max,7:46pm,,7:50pm,7:56pm,6,,08:01pm,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH331,6/9/2017,Four horn sculpin,Myoxocephalus quadricornis,339,Fyke net,Fyke 1,7:45,15,182.6,28,,,,,,,V5,9053/1271530,,,Karine,Leah,8:28,,8:32,8:37,5,,8:42,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH330,6/9/2017,Four horn sculpin,Myoxocephalus quadricornis,338,Fyke net,Fyke 1,7:45,15,197.7,26.5,,,,,,,V5,9465/1271557,,,Karine,Leah,8:15,,8:19,8:24,5,,8:42,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH334,7/9/2017,Four horn sculpin,Myoxocephalus quadricornis,342,Fyke net,Fyke 1,8:15,17,17.1,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S157,7/9/2017,Slimy sculpin,Cottus cognatus cognatus ,156,Fyke net,fyke 1,21:30,18,34.5,13,,,,,,,V5,9299/1271547,,,Karine,Max,9:00pm,,9:03pm,9:08pm,5,,9:20pm,,,,,,,,,,,,Y,,Tagged. Released.
+S156,7/9/2017,Slimy sculpin,Cottus cognatus cognatus ,155,Fyke net,fyke 1,21:30,18,35.1,13,,,,,,,V5,9426/1271552,,,Karine,Max,8:50pm,,8:54pm,8:58pm,4,,9:10pm,,,,,,,,,,,,Y,,Tagged. Released.
+FH338,7/9/2017,Four horn sculpin,Myoxocephalus quadricornis,346,Fyke net,Fyke 1,19:30,18,39.4,16,,,,,,,V5,9335/1271548,,,Karine,Max,8:20pm,,8:21pm,8:25pm,4,,9:10pm,,,,,,,,Y,,,,,,Tagged. Released.
+S154,7/9/2017,Slimy sculpin,Cottus cognatus cognatus ,153,Fyke net,fyke 1,21:30,18,44.6,14.2,,,,,,,V5,9368/1271550,,,Karine,Max,8:29pm,,8:33pm,8:37pm,4,,9:10pm,,,,,,,,,,,,Y,,Tagged. Released.
+S155,7/9/2017,Slimy sculpin,Cottus cognatus cognatus ,154,Fyke net,fyke 1,21:30,18,69.3,16,,,,,,,V5,9414/1271551,,,Karine,Max,8:39pm,,8:43pm,8:47pm,4,,9:10pm,,,,,,,,,,,,Y,,Tagged. Released.
+S153,7/9/2017,Slimy sculpin,Cottus cognatus cognatus ,152,Fyke net,fyke 1,8:15,19,127.9,20,,,,,,,V5,9451/1271555,,,Karine,Bob,9:23,,9:26,9:30,4,,10:03,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH337,7/9/2017,Four horn sculpin,Myoxocephalus quadricornis,345,Fyke net,Fyke 1,8:15,19,133,23.5,,,,,,,V5,9144/1271533,,,Bob,Karine,10:01,,10:05,10:14,9,,10:19,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH336,7/9/2017,Four horn sculpin,Myoxocephalus quadricornis,344,Fyke net,Fyke 1,8:15,19,191.4,24,,,,,,,V5,9350/1271549,,,Karine,Leah,9:52,,9:55,10:00,5,,10:19,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH335,7/9/2017,Four horn sculpin,Myoxocephalus quadricornis,343,Fyke net,Fyke 1,8:15,19,207.4,27,,,,,,,V5,9024/1271529,,,Karine,Bob,9:35,,9:39,9:45,6,,10:03,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH108,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,108,Fyke net,Fyke 1,19:00,20,17.2,24,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH127,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,127,Fyke net,Fyke 1,19:00,20,24.6,14,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH121,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,121,Fyke net,Fyke 1,19:00,20,27,15,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH123,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,123,Fyke net,Fyke 1,19:00,20,31.8,15.5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH125,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,125,Fyke net,Fyke 1,19:00,20,37,17,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH107,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,107,Fyke net,Fyke 1,19:00,20,39.4,6.3,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH124,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,124,Fyke net,Fyke 1,19:00,20,42.9,17,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH122,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,122,Fyke net,Fyke 1,19:00,20,58.8,19,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH110,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,110,Fyke net,Fyke 1,19:00,20,60.4,17.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH111,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,111,Fyke net,Fyke 1,19:00,20,62.4,19,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH126,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,126,Fyke net,Fyke 1,19:00,20,65.1,19.5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH109,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,109,Fyke net,Fyke 1,19:00,20,71.3,18.6,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH114,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,114,Fyke net,Fyke 1,19:00,20,90.6,20.5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH112,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,112,Fyke net,Fyke 1,19:00,20,94.8,22,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH118,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,118,Fyke net,Fyke 1,19:00,20,99,22,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH113,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,113,Fyke net,Fyke 1,19:00,20,107,22,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH120,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,120,Fyke net,Fyke 1,19:00,20,113,23,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH119,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,119,Fyke net,Fyke 1,19:00,20,119,22.5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH116,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,116,Fyke net,Fyke 1,19:00,20,125.7,23,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH115,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,115,Fyke net,Fyke 1,19:00,20,145.9,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH117,8/8/2017,Four horn sculpin,Myoxocephalus quadricornis,117,Fyke net,Fyke 1,19:00,20,219,24,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,gravid
+FH137,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,137,Fyke net,Fyke 1,19:00,21,26.8,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH130,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,130,Fyke net,Fyke 1,19:00,21,42.2,16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH136,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,136,Fyke net,Fyke 1,19:00,21,55.2,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH133,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,133,Fyke net,Fyke 1,19:00,21,60.3,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH132,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,132,Fyke net,Fyke 1,19:00,21,61.4,18.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH135,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,135,Fyke net,Fyke 1,19:00,21,69.1,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH134,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,134,Fyke net,Fyke 1,19:00,21,95.3,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH131,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,131,Fyke net,Fyke 1,19:00,21,99.9,20.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH139,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,139,Fyke net,Fyke 1,19:00,21,104.7,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH140,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,140,Fyke net,Fyke 1,19:00,21,109.5,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH138,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,138,Fyke net,Fyke 1,19:00,21,134.1,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH129,9/8/2017,Four horn sculpin,Myoxocephalus quadricornis,129,Fyke net,Fyke 1,19:00,21,171.5,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S167,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,166,Fyke net,fyke 1,8:45,22,10.5,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,, Released.
+FH339,9/9/2017,Four horn sculpin,Myoxocephalus quadricornis,348,Fyke net,Fyke 1,8:45,22,12.5,11.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S159,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,158,Fyke net,fyke 1,8:45,22,13.7,10.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,, Released.
+S165,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,164,Fyke net,fyke 1,8:45,22,15.7,9.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S158,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,157,Fyke net,fyke 1,8:45,22,17.8,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S163,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,162,Fyke net,fyke 1,8:45,22,20.2,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S160,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,159,Fyke net,fyke 1,8:45,22,20.5,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,, Released.
+S162,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,161,Fyke net,fyke 1,8:45,22,24,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S166,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,165,Fyke net,fyke 1,8:45,22,25.1,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S161,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,160,Fyke net,fyke 1,8:45,22,27.6,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,, Released.
+S164,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,163,Fyke net,fyke 1,8:45,22,28.3,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S173,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,172,Fyke net,fyke 1,8:45,22,34.3,13.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,, Released.
+S168,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,167,Fyke net,fyke 1,8:45,22,34.4,13.5,,,,,,,V5,9296/1271546,,,Karine,Colleen,9:55,,9:58,10:02,4,,10:50,,,,,,,,Y,,,,Y,,Tagged. Released.
+S169,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,168,Fyke net,fyke 1,8:45,22,35.3,14,,,,,,,V5,9292/1271545,,,Karine,Colleen,10:07,,10:13,10:18,5,,10:50,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH128,9/9/2017,Four horn sculpin,Myoxocephalus quadricornis,128,Fyke net,Fyke 1,19:00,23,36.2,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S172,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,171,Fyke net,fyke 1,8:45,22,41.7,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S171,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,170,Fyke net,fyke 1,8:45,22,44,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released.
+S174,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,173,Fyke net,fyke 1,8:45,22,46.6,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,, Released.
+S170,9/9/2017,Slimy sculpin,Cottus cognatus cognatus ,169,Fyke net,fyke 1,8:45,22,51.2,14.5,,,,,,,V5,9252/1271540,,,Karine,Colleen,10:34,,10:37,10:41,4,,10:50,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH341,9/9/2017,Four horn sculpin,Myoxocephalus quadricornis,350,Fyke net,Fyke 1,8:45,22,86.3,21.5,,,,,,,V5,9229/1271539,,,Karine,Colleen,10:21,,10:25,10:30,5,,10:50,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH340,9/9/2017,Four horn sculpin,Myoxocephalus quadricornis,349,Fyke net,Fyke 1,8:45,22,148.3,25,,,,,,,V5,9273/1271544,,,Karine,Colleen,9:43,,9:46,9:51,5,,10:50,,,,,,,,Y,,,,Y,,Tagged. Released.
+FH150,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,150,Fyke net,Fyke 1,9:00,24,32.3,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH148,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,148,Fyke net,Fyke 1,9:00,24,33.1,15.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH165,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,165,Fyke net,Fyke 1,20:15,25,37.2,16.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH152,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,152,Fyke net,Fyke 1,9:00,24,37.5,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH149,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,149,Fyke net,Fyke 1,9:00,24,45.6,16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH163,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,163,Fyke net,Fyke 1,20:15,25,63.2,19.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH153,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,153,Fyke net,Fyke 1,9:00,24,68.2,19.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH147,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,147,Fyke net,Fyke 1,9:00,24,71,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH146,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,146,Fyke net,Fyke 1,9:00,24,74.4,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH161,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,161,Fyke net,Fyke 1,20:15,25,75,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH164,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,164,Fyke net,Fyke 1,20:15,25,108.8,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH162,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,162,Fyke net,Fyke 1,20:15,25,114,23.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S36,10/8/2017,Slimy sculpin,Cottus cognatus cognatus ,36,Fyke net,Fyke 1,20:53,25,114.3,19.8,,,,,,,V9,1629/1271575,,,Harri,22:08,,22:19,22:26,,,22:36,,,,,,,,,Y,,,,Y,,
+S35,10/8/2017,Slimy sculpin,Cottus cognatus cognatus ,35,Fyke net,Fyke 1,20:53,25,117.9,21,,,,,,,V9,1624/1271570,,,Harri,21:44,,22:01,22:08,,,22:36,,,,,,,,,Y,,,,Y,,
+FH160,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,160,Fyke net,Fyke 1,20:15,25,145.9,23.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH159,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,159,Fyke net,Fyke 1,20:15,25,176.8,26.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH158,10/8/2017,Four horn sculpin,Myoxocephalus quadricornis,158,Fyke net,Fyke 1,20:15,25,198.2,26.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S45,10/8/2017,Slimy sculpin,Cottus cognatus cognatus ,45,Gill net,Fyke 1,15:00,,,26.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH166,11/8/2017,Four horn sculpin,Myoxocephalus quadricornis,166,Fyke net,Fyke 1,21:35,26,,27.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH167,11/8/2017,Four horn sculpin,Myoxocephalus quadricornis,167,Fyke net,Fyke 1,21:35,26,,16.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH168,11/8/2017,Four horn sculpin,Myoxocephalus quadricornis,168,Fyke net,Fyke 1,21:35,26,,14.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH169,11/8/2017,Four horn sculpin,Myoxocephalus quadricornis,169,Fyke net,Fyke 1,21:35,26,,13.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH175,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,175,Fyke net,Fyke 1,23:00,28,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH171,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,171,Fyke net,Fyke 1,23:00,28,,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH172,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,172,Fyke net,Fyke 1,23:00,28,,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH170,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,170,Fyke net,Fyke 1,10:00,27,,22.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH174,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,174,Fyke net,Fyke 1,23:00,28,,21.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH176,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,176,Fyke net,Fyke 1,23:00,28,,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH173,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,173,Fyke net,Fyke 1,23:00,28,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH177,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,177,Fyke net,Fyke 1,23:00,28,,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH178,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,178,Fyke net,Fyke 1,23:00,28,,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH179,12/8/2017,Four horn sculpin,Myoxocephalus quadricornis,179,Fyke net,Fyke 1,23:00,28,,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH182,14/8/2017,Four horn sculpin,Myoxocephalus quadricornis,182,Fyke net,Fyke 3,10:15,31,1.6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,Y,,,
+S56,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,56,Fyke net,Fyke 1 (river),12:45,33,21.7,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S55,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,55,Fyke net,Fyke 1 (river),12:45,33,33.1,13.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S54,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,54,Fyke net,Fyke 1 (river),12:45,33,34.9,13.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S53,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,53,Fyke net,Fyke 1 (river),12:45,33,38.4,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH195,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,195,Fyke net,Fyke 1,12:45,33,38.8,16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S52,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,52,Fyke net,Fyke 1 (river),12:45,33,38.8,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH194,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,194,Fyke net,Fyke 1,12:45,33,39,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S57,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,57,Fyke net,Fyke 1 (river),12:45,33,40.1,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S51,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,51,Fyke net,Fyke 1 (river),12:45,33,53.9,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH206,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,206,Fyke net,Fyke 1,,34,79,20,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH207,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,207,Fyke net,Fyke 1,,34,82,20,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+S58,16/8/2017,Slimy sculpin,Cottus cognatus cognatus ,58,Fyke net,Fyke 1 (river),,34,118.5,21,,,,,,,V9,1623/1271569,,,Harri,,16:32,,16:37,16:42,,,16:51,,,,,,,,Y,,,,,,
+FH184,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,184,Fyke net,Fyke 1,12:45,33,122.1,24.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH191,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,191,Fyke net,Fyke 1,12:45,33,131.7,24.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH192,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,192,Fyke net,Fyke 1,12:45,33,132.1,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH200,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,200,Fyke net,Fyke 1,,34,136.3,24,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH205,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,205,Fyke net,Fyke 1,,34,136.3,24,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH189,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,189,Fyke net,Fyke 1,12:45,33,136.9,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH188,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,188,Fyke net,Fyke 1,12:45,33,146,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH202,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,202,Fyke net,Fyke 1,,34,151.2,23,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH185,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,185,Fyke net,Fyke 1,12:45,33,162.5,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH203,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,203,Fyke net,Fyke 1,,34,166.1,25,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH199,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,199,Fyke net,Fyke 1,,34,166.7,25,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH193,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,193,Fyke net,Fyke 1,12:45,33,169.6,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH183,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,183,Fyke net,Fyke 1,12:45,33,191.7,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH204,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,204,Fyke net,Fyke 1,,34,192.6,26.6,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH201,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,201,Fyke net,Fyke 1,,34,198.7,26.5,,,,,,,,,,,,,,,,,,,,,,,,,,,?,,,,Y,,
+FH198,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,198,Fyke net,Fyke 1,,34,199.7,26.5,,,,,,,V9,1622/1271568,,,Harri,,17:19,,17:25,17:29,,,17:57,,,,,,,,?,,,,?,,
+FH186,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,186,Fyke net,Fyke 1,12:45,33,204.4,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH187,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,187,Fyke net,Fyke 1,12:45,33,238.7,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH190,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,190,Fyke net,Fyke 1,12:45,33,251.9,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH196,16/8/2017,Four horn sculpin,Myoxocephalus quadricornis,196,Fyke net,Fyke 1,,34,264.8,29.5,,,,,,,V9,1620/1271566,,,Harri,,16:50,,16:56,17:02,,,17:15,,,,,,,,Y,,,,?,,
+FH212,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,212,Fyke net,Fyke 1,0:45,35,17.2,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S61,17/8/2017,Slimy sculpin,Cottus cognatus cognatus ,61,Fyke net,Fyke 1 (river),0:45,35,36.6,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S60,17/8/2017,Slimy sculpin,Cottus cognatus cognatus ,60,Fyke net,Fyke 1 (river),0:45,35,48,16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH219,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,219,Fyke net,Fyke 1,0:45,35,107,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH213,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,213,Fyke net,Fyke 1,0:45,35,110.6,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH209,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,209,Fyke net,Fyke 1,0:45,35,135.1,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH215,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,215,Fyke net,Fyke 1,0:45,35,159.9,25.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH218,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,218,Fyke net,Fyke 1,0:45,35,161.8,25.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH211,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,211,Fyke net,Fyke 1,0:45,35,164,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH220,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,220,Fyke net,Fyke 1,0:45,35,188.4,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH216,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,216,Fyke net,Fyke 1,0:45,35,209.3,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH214,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,214,Fyke net,Fyke 1,0:45,35,225.8,27.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH210,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,210,Fyke net,Fyke 1,0:45,35,232.5,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH217,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,217,Fyke net,Fyke 1,0:45,35,235.9,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH208,17/8/2017,Four horn sculpin,Myoxocephalus quadricornis,208,Fyke net,Fyke 1,0:45,35,240.1,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S68,18/8/2017,Slimy sculpin,Cottus cognatus cognatus ,68,Fyke net,Fyke 1 (river),3:15,37,29.3,13.5,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+S67,18/8/2017,Slimy sculpin,Cottus cognatus cognatus ,67,Fyke net,Fyke 1 (river),3:15,37,42.9,15,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,Y,,
+FH228,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,228,Fyke net,Fyke 1,3:15,37,88.2,22.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH229,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,229,Fyke net,Fyke 1,3:15,37,99.7,22.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH230,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,230,Fyke net,Fyke 1,3:15,37,115.4,22.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH227,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,227,Fyke net,Fyke 1,3:15,37,123.7,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH231,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,231,Fyke net,Fyke 1,3:15,37,154.6,24.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+FH226,18/8/2017,Four horn sculpin,Myoxocephalus quadricornis,226,Fyke net,Fyke 1,3:15,37,155.8,26.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"Don't think anything was taken, removed ""Y""s"
+FH243,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,251,Fyke net,Fyke 1,3:45,38,28,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH244,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,252,Fyke net,Fyke 1,17:00,39,60.2,15.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH240,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,248,Fyke net,Fyke 1,3:45,38,128.6,25.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH241,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,249,Fyke net,Fyke 1,3:45,38,129.8,24.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH242,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,250,Fyke net,Fyke 1,3:45,38,134.9,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH238,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,238,Fyke net,Fyke 1,3:45,38,151.8,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"Don't think anything was taken, removed ""Y""s"
+FH239,19/8/2017,Four horn sculpin,Myoxocephalus quadricornis,239,Fyke net,Fyke 1,3:45,38,152.6,27.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH247,20/8/2017,Four horn sculpin,Myoxocephalus quadricornis,255,Fyke net small,Fyke 2 camp,9:30,40,27.1,15.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S72,20/8/2017,Slimy sculpin,Cottus cognatus cognatus ,78,Fyke net,Fyke 1,7:45,41,28.4,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,
+FH248,20/8/2017,Four horn sculpin,Myoxocephalus quadricornis,256,Fyke net,Fyke 1,17:30,42,40.4,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,
+S73,20/8/2017,Slimy sculpin,Cottus cognatus cognatus ,79,Fyke net,Fyke 1,17:30,42,46.6,15.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,
+S69,20/8/2017,Slimy sculpin,Cottus cognatus cognatus ,75,Gill net,Fyke 2,19:45,43,79.1,19.1,,,,,,,V5,8683/1271507,,,Harri,,10:15,,10:19,10:24,,,11:22,,,,,,,,Y,,,,Y,,
+FH246,20/8/2017,Four horn sculpin,Myoxocephalus quadricornis,254,Fyke net,Fyke 1,7:45,41,85.5,21.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,251 in pic
+S70,20/8/2017,Slimy sculpin,Cottus cognatus cognatus ,76,Fyke net,Fyke 2,19:45,43,88.9,19.4,,,,,,,V5,8656/1271505,,,Harri,,10:25,,10:31,10:35,,,11:22,,,,,,,,Y,,,,Y,,
+S71,20/8/2017,Slimy sculpin,Cottus cognatus cognatus ,77,Fyke net,Fyke 2,19:45,43,90.8,18.5,,,,,,,V5,8668/1271506,,,Harri,,10:35,,10:41,10:43,,,11:22,,,,,,,,Y,,,,Y,,
+FH245,20/8/2017,Four horn sculpin,Myoxocephalus quadricornis,253,Fyke net,Fyke 1,7:45,41,179.1,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,250 in pic
+FH250,21/8/2017,Four horn sculpin,Myoxocephalus quadricornis,258,Fyke net,Fyke 1,19:00,44,40,16,,,,,,,V5,8702/1271509,,,Matilde,,20:10,,20:15,20:24,,,20:41,,,,,,,,Y,,,,,,mass with tag
+FH1,22/7/2017,Four horn sculpin,Myoxocephalus quadricornis,1,Fyke net,River Fyke 1,7:30,46,180,26,,,,,,,V9,1642/1271588,,,Nige,,,,,,~5m,,,~5m,,72?21.123',81?06.423',,21st July 2017,,,,,,,,
+FH4,22/7/2017,Four horn sculpin,Myoxocephalus quadricornis,4,Fyke net,River Fyke 1,7:30,46,180,23.5,,,,,,,V9,1635/1271581,,,Nige,,,,,,,,,,7.5min,72?21.123',81?06.423',,,,,,,,,,
+FH5,22/7/2017,Four horn sculpin,Myoxocephalus quadricornis,5,Fyke net,River Fyke 1,7:30,46,200,25,,,,,,,V9,1634/1271580,,,Harri,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH2,22/7/2017,Four horn sculpin,Myoxocephalus quadricornis,2,Fyke net,River Fyke 1,7:30,46,200,24.3,,,,,,,V9,1641/1271587,,,Nige,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH3,22/7/2017,Four horn sculpin,Myoxocephalus quadricornis,3,Fyke net,River Fyke 1,7:30,46,250,29,,,,,,,V9,1636/1271582,,,Harri,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S80,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,86,Fyke net,Fyke 1,7:30,46,30.9,12.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S76,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,82,Fyke net,Fyke 1,7:30,46,34.9,13.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S81,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,87,Fyke net,Fyke 1,7:30,46,40.9,14.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S82,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,88,Fyke net,Fyke 1,7:30,46,50.1,15.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH252,22/8/2017,Four horn sculpin,Myoxocephalus quadricornis,260,Fyke net,Fyke 1,7:30,46,52,17.4,,,,,,,V9,1621/1271567,,,Bob,,09:45am,,09:49am,09:55am,,,10:27am,,,,,,,,Y,,,,Y,,released
+S83,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,89,Fyke net,Fyke 1,7:30,46,68.2,17.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S77,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,83,Fyke net,Fyke 1,7:30,46,78.4,18.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S78,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,84,Fyke net,Fyke 1,7:30,46,84,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S79,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,85,Fyke net,Fyke 1,7:30,46,101.8,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S75,22/8/2017,Slimy sculpin,Cottus cognatus cognatus ,81,Gill net,Fyke 2,7:30,46,116.7,20.5,,,,,,,V9,1613/1271559,,,Bob,,9:57,,10:02,10:08,,,10:31,,,,,,,,Y,,,,Y,,mass with tag
+FH16,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,16,Fyke net,Fyke 2 (camp),18:40,49,158,25.5,,,,,,,V9,1639/1271585,,,Harri,,20:12,20:12,20:17,20:24,,20:25,21:20,,,72.3567,81.0975,,24th July 2017,,,,,,,,
+FH15,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,15,Fyke net,Fyke 2 (camp),18:40,49,162,24.2,,,,,,,V9,1638/1271584,,,Harri,,19:56,19:56,20:03,20:11,,20:12,21:20,,,72.3567,81.0975,,24th July 2017,,,,,,,,
+FH17,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,17,Fyke net,Fyke 2 (camp),18:40,49,228,27.5,,,,,,,V9,1640/1271586,,,Rozenn,,20:28,20:28,20:38,20:46,,20:49,21:20,,,72.3567,81.0975,,24th July 2017,,,,,,,,
+FH14,24/7/2017,Four horn sculpin,Myoxocephalus quadricornis,14,Fyke net,Fyke 2 (camp),18:40,49,275,29,,,,,,,V9,1637/1271583,,,Harri,,19:25,,19:44,19:53,,19:56,21:20,,,72.3567,81.0975,,24th July 2017,,,,,,,,
+FH263,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,271,Fyke net,Fyke 1,21:00,52,62.7,19.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,released without sampling (Bob)
+FH256,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,264,Fyke net,Fyke 1,8:30,51,110,22.5,,,,,,,V5,8768/1271512,,,Matilde,,10:20am,,10:26am,10:37am,,,10:44am,,,,,,,,y,,,,y,,V5
+FH255,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,263,Fyke net,Fyke 1,8:30,51,123,23,,,,,,,V5,8787/1271513,,,Matilde,,10:04am,,10:09am,10:19am,,,10:26am,,,,,,,,y,,,,y,,V5
+FH261,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,269,Fyke net,Fyke 1,21:30,52,142.5,23.5,,,,,,,V9,1615/1271561,,,Matilde,,21:52,,22:01,22:09,,,22:30,,,,,,,,y,,,,y,,V9
+FH254,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,262,Fyke net,Fyke 1,8:30,51,146.2,23,,,,,,,V9,1618/1271564,,,Matilde,,9:42am,,9:48am,9:56am,,,10:07am,,,,,,,,y,,,,y,,V9
+FH253,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,261,Fyke net,Fyke 1,8:30,51,154,24.5,,,,,,,V9,1616/1271562,,,Matilde,,9:20am,,9:27am,9:38am,,,9:58am,,,,,,,,y,,,,y,,V9
+FH259,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,267,Fyke net,Fyke 1,8:30,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH260,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,268,Fyke net,Fyke 1,8:30,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FH262,24/8/2017,Four horn sculpin,Myoxocephalus quadricornis,270,Fyke net,Fyke 1,21:00,52,,,,,,,,,V5,9440/1271554,,,Matilde,,22:11,,22:17,22:26,,,22:39,,,,,,,,y,,,,y,,
+S15,26/7/2017,Slimy sculpin,Cottus cognatus cognatus ,15,Fyke net,Fyke 1 (river),21:20,56,50,15,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S16,26/7/2017,Slimy sculpin,Cottus cognatus cognatus ,16,Fyke net,Fyke 1 (river),21:20,56,80,19,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S14,26/7/2017,Slimy sculpin,Cottus cognatus cognatus ,14,Fyke net,Fyke 1 (river),21:20,56,90,17.8,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,already caught?
+FH29,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,29,Fyke net,Fyke 1 (river),21:20,56,100,21,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH31,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,31,Fyke net,Fyke 1 (river),21:20,56,100,19.6,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH34,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,34,Fyke net,Fyke 1 (river),21:20,56,110,21.2,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH32,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,32,Fyke net,Fyke 1 (river),21:20,56,140,21.8,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH30,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,30,Fyke net,Fyke 1 (river),21:20,56,150,23.4,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH33,26/7/2017,Four horn sculpin,Myoxocephalus quadricornis,33,Fyke net,Fyke 1 (river),21:20,56,150,22.8,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH270,26/8/2017,Four horn sculpin,Myoxocephalus quadricornis,278,Fyke net,Fyke 1,21:00,56,40,16.5,,,,,,,V5,8834/1271517,,,Matilde,,9:47pm,,9:58pm,10:05pm,,,10:20pm,,,,,,,,Y,,,,Y,,
+FH269,26/8/2017,Four horn sculpin,Myoxocephalus quadricornis,277,Fyke net,Fyke 1,9:40,55,57.3,17.4,,,15 krill,5,1.1,0.3,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,,,,apathic in net
+S88,26/8/2017,Slimy sculpin,Cottus cognatus cognatus ,94,Fyke net,fyke 1,21:00,56,80.4,17.7,,,,,,,V5,8848/1271518,,,Karine,,09:30pm,,09:33pm,09:42pm,,,10:22pm,,,,,,,,Y,,,,Y,,
+FH268,26/8/2017,Four horn sculpin,Myoxocephalus quadricornis,276,Fyke net,Fyke 1,9:40,55,105.4,21.5,,,,,,,V9,1617/1271563,,,Matilde,,10:33am,,10:48am,10:55am,,,11:04am,,,,,,,,Y,,,,Y,,
+FH63,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,47,Trap net,Fyke 2 (camp),22:40,57,165.4,26.2,,,,,,,,,,,,,,,,,,,,,,72.3567,81.0975,,,,,,,,,,
+FH46,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,46,Fyke net,Fyke 1 (river),21:50,57,50,16,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S17,27/7/2017,Slimy sculpin,Cottus cognatus cognatus ,17,Fyke net,Fyke 1 (river),21:50,57,100,22,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH43,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,43,Fyke net,Fyke 1 (river),21:50,57,100,22,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH41,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,41,Fyke net,Fyke 1 (river),21:50,57,100,21,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH36,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,36,Fyke net,Fyke 1 (river),10:19,58,100,20,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH40,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,40,Fyke net,Fyke 1 (river),21:50,57,150,26,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH44,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,44,Fyke net,Fyke 1 (river),21:50,57,150,26,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH45,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,45,Fyke net,Fyke 1 (river),21:50,57,150,25,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH35,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,35,Fyke net,Fyke 1 (river),10:19,58,150,23,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH39,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,39,Fyke net,Fyke 1 (river),21:50,57,200,29,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH38,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,38,Fyke net,Fyke 1 (river),10:19,58,200,26,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH42,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,42,Fyke net,Fyke 1 (river),21:50,57,250,31,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH37,27/7/2017,Four horn sculpin,Myoxocephalus quadricornis,37,Fyke net,Fyke 1 (river),10:19,58,300,32,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH274,27/8/2017,Four horn sculpin,Myoxocephalus quadricornis,282,Fyke net,Fyke 1,23:15,60,100,23,,,,,,,V5,8812/1271515,,,Matilde,,12:09am,,12:21am,12:30am,,,1am,,,,,,,,y,,,,y,,Released
+FH273,27/8/2017,Four horn sculpin,Myoxocephalus quadricornis,281,Fyke net,Fyke 1,23:15,60,145,24,,,,,,,V5,8805/1271514,,,Matilde,,11:51pm,,11:59pm,12:08am,,,12:52am,,,,,,,,y,,,,y,,
+FH271,27/8/2017,Four horn sculpin,Myoxocephalus quadricornis,279,Fyke net,Fyke 1,23:15,60,153,24.5,,,,,,,V9,1614/1271560,,,Matilde,,10:55pm,,23:05,23:20,,,23:28,,,,,,,,Y,,,,Y,,
+FH272,27/8/2017,Four horn sculpin,Myoxocephalus quadricornis,280,Fyke net,Fyke 1,23:15,60,351,28,,,,,,,V9,1619/1271565,,,Matilde,,11:25pm,,11:35pm,11:47pm,,,12:35am,,,,,,,,y,,,,y,,
+FH48,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,48,Fyke net,Fyke 1 (river),22:18,61,19.5,12.7,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH51,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,51,Fyke net,Fyke 1 (river),22:18,61,23.2,14.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH52,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,52,Fyke net,Fyke 1 (river),22:18,61,49.6,17.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH47,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,47,Fyke net,Fyke 1 (river),10:38,62,50,14.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH50,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,50,Fyke net,Fyke 1 (river),22:18,61,71.7,20,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH49,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,49,Fyke net,Fyke 1 (river),22:18,61,110.3,22.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH53,28/7/2017,Four horn sculpin,Myoxocephalus quadricornis,53,Fyke net,Fyke 1 (river),22:18,61,224.5,25.7,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S91,28/8/2017,Slimy sculpin,Cottus cognatus cognatus ,97,Fyke net,fyke 1,11:00,63,41.4,14,,,,,,,V5,8938/1271523,,,Karine,,12:13pm,,12:19pm,12:28pm,,,12:37pm,,,,,,,,y,,,,y,,
+FH60,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,61,Fyke net,Fyke 1 (river),12:21,64,12.8,11.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH61,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,62,Fyke net,Fyke 1 (river),12:21,64,37.4,16,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH58,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,59,Fyke net,Fyke 1 (river),12:21,64,72.1,18.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH55,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,56,Fyke net,Fyke 1 (river),12:21,64,108.3,21,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH54,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,55,Fyke net,Fyke 1 (river),12:21,64,113.2,22,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH56,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,57,Fyke net,Fyke 1 (river),12:21,64,120.7,22.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH57,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,58,Fyke net,Fyke 1 (river),12:21,64,152.7,25.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH59,29/7/2017,Four horn sculpin,Myoxocephalus quadricornis,60,Fyke net,Fyke 1 (river),12:21,64,180.5,26,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH280,29/8/2017,Four horn sculpin,Myoxocephalus quadricornis,288,Fyke net,Fyke 1,11:30,65,44.5,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH276,29/8/2017,Four horn sculpin,Myoxocephalus quadricornis,284,Fyke net,Fyke 1,11:30,65,121.1,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH279,29/8/2017,Four horn sculpin,Myoxocephalus quadricornis,287,Fyke net,Fyke 1,11:30,65,147.5,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH275,29/8/2017,Four horn sculpin,Myoxocephalus quadricornis,283,Fyke net,Fyke 1,11:30,65,167.6,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH277,29/8/2017,Four horn sculpin,Myoxocephalus quadricornis,285,Fyke net,Fyke 1,11:30,65,191.4,26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+S101,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,107,Fyke net,fyke 1,13:00,66,24.2,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH284,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,292,Fyke net,Fyke 1,13:00,66,115.7,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH291,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,299,Fyke net,Fyke 1,13:00,66,137.1,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,
+FH290,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,298,Fyke net,Fyke 1,13:00,66,143,22.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH283,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,291,Fyke net,Fyke 1,13:00,66,143.4,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH282,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,290,Fyke net,Fyke 1,13:00,66,154.5,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH288,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,296,Fyke net,Fyke 1,13:00,66,160.4,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH289,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,297,Fyke net,Fyke 1,13:00,66,167.2,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH287,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,295,Fyke net,Fyke 1,13:00,66,169.6,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH281,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,289,Fyke net,Fyke 1,13:00,66,176.5,24.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH286,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,294,Fyke net,Fyke 1,13:00,66,206.7,26.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH285,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,293,Fyke net,Fyke 1,13:00,66,241.4,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,Released
+FH62,30/8/2017,Four horn sculpin,Myoxocephalus quadricornis,63,Fyke net,Fyke 1 (river),12:21,66,91,21,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+S97,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,103,Fyke net,fyke 1,13:00,66,39.1,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S100,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,106,Fyke net,fyke 1,13:00,66,45.4,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S99,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,105,Fyke net,fyke 1,13:00,66,51.5,15.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S98,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,104,Fyke net,fyke 1,13:00,66,52.8,16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S93,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,99,Fyke net,fyke 1,13:00,66,54.1,16.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S95,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,101,Fyke net,fyke 1,13:00,66,60,15.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S94,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,100,Fyke net,fyke 1,13:00,66,84.9,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S92,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,98,Fyke net,fyke 1,13:00,66,86.4,18.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S103,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,109,Fyke net,fyke 1,13:00,66,95.6,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S102,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,108,Fyke net,fyke 1,13:00,66,120.9,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S96,30/8/2017,Slimy sculpin,Cottus cognatus cognatus ,102,Fyke net,fyke 1,13:00,66,141.7,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S19,31/7/2017,Slimy sculpin,Cottus cognatus cognatus ,18,Fyke net,Fyke 1 (river),12:00,67,53,15,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,changed from 18 to 19
+FH68,31/7/2017,Four horn sculpin,Myoxocephalus quadricornis,68,Fyke net,Fyke 1 (river),12:00,67,62.8,18,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH67,31/7/2017,Four horn sculpin,Myoxocephalus quadricornis,67,Fyke net,Fyke 1 (river),12:00,67,64.2,20,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,no photo
+S18,31/7/2017,Slimy sculpin,Cottus cognatus cognatus ,17,Fyke net,Fyke 1 (river),12:00,67,68.3,16,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,changed from 17 to 18
+FH66,31/7/2017,Four horn sculpin,Myoxocephalus quadricornis,66,Fyke net,Fyke 1 (river),12:00,67,107.8,22,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH65,31/7/2017,Four horn sculpin,Myoxocephalus quadricornis,65,Fyke net,Fyke 1 (river),12:00,67,115.8,22.5,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,
+FH64,31/7/2017,Four horn sculpin,Myoxocephalus quadricornis,64,Fyke net,Fyke 1 (river),12:00,67,173.7,25,,,,,,,,,,,,,,,,,,,,,,72?21.123',81?06.423',,,,,,,,,,no photo
+S106,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,112,Fyke net,fyke 1,13:45,68,24.8,13.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S107,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,113,Fyke net,fyke 1,13:45,68,29.5,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH296,31/8/2017,Four horn sculpin,Myoxocephalus quadricornis,304,Fyke net,Fyke 1,13:45,68,80.2,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH294,31/8/2017,Four horn sculpin,Myoxocephalus quadricornis,302,Fyke net,Fyke 1,13:45,68,155.7,23.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH293,31/8/2017,Four horn sculpin,Myoxocephalus quadricornis,301,Fyke net,Fyke 1,13:45,68,155.9,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH295,31/8/2017,Four horn sculpin,Myoxocephalus quadricornis,303,Fyke net,Fyke 1,13:45,68,203.8,24.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+FH292,31/8/2017,Four horn sculpin,Myoxocephalus quadricornis,300,Fyke net,Fyke 1,13:45,68,230.1,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S111,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,117,Fyke net,fyke 1,13:45,68,39.3,13.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S113,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,119,Fyke net,fyke 1,13:45,68,47.4,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S104,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,110,Fyke net,fyke 1,13:45,68,48,14.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S108,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,114,Fyke net,fyke 1,13:45,68,50,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S110,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,116,Fyke net,fyke 1,13:45,68,58.8,14.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S112,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,118,Fyke net,fyke 1,13:45,68,61.1,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S109,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,115,Fyke net,fyke 1,13:45,68,66,17.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
+S105,31/8/2017,Slimy sculpin,Cottus cognatus cognatus ,111,Fyke net,fyke 1,13:45,68,88.2,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Released
